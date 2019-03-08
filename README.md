@@ -42,9 +42,7 @@ Configuration and plugins installed on my Terminal.
 
 #### Softwares
 + **[iTerm](https://www.iterm2.com)** - Terminal Emulator.
-
-#### Themes
-+ **[Material Design](https://github.com/MartinSeeler/iterm2-material-design)**
+With **[Material Design](https://github.com/MartinSeeler/iterm2-material-design)** theme and `source ~/.zshrc` as text at start.
 
 #### Plugins
 + **[ZSH](https://www.zsh.org)**
