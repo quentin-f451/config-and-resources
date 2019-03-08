@@ -39,9 +39,6 @@ https://github.com/sylvainjule/kirby-matomo
 https://github.com/mgfagency/kirby-helpsection
 + **Builder** Predefine content blocks with different field sets.
 https://github.com/TimOetting/kirby-builder
-
-----
-
 + **Dev Kit** Starting point for using Kirby with Gulp and Bower.
 https://github.com/julien-gargot/kirby-devkit/tree/v3
 
