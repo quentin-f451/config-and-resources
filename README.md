@@ -8,6 +8,7 @@
   + [Kirby 3 Plugins](#kirby-3-plugins)
 + [Configurations](#configurations)
   + [Terminal](#terminal)
+  + [Code editor](#code-editor)
   + [Node](#node)
 
 ## Resources
@@ -53,6 +54,13 @@ With **[Material Design](https://github.com/MartinSeeler/iterm2-material-design)
 `git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting` then add in `~/.zshrc`
 + **[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)** - Fish-like autosuggestions for zsh.
 `git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions` then add in `~/.zshrc`
+
+### Code editor
+Configuration and plugins installed on my Code Editor.
+
+#### Softwares
++ **[VS Code](https://code.visualstudio.com)**
++ **[Atom](https://atom.io)**
 
 ### Node
 Configuration and plugins installed for Node.
