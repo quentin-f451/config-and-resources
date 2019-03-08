@@ -37,9 +37,11 @@ A list of useful Kirby 3 plugins 🔥
 ## Configurations
 
 ### Terminal
-Configuration and plugins installed on my Terminal 
+Configuration and plugins installed on my Terminal.
 
 #### Softwares
-+ **[iTerm](https://www.iterm2.com)** - Terminal Emulator
++ **[iTerm](https://www.iterm2.com)** - Terminal Emulator.
 
 #### Plugins
++ **[Antibody](https://github.com/getantibody/antibody)** - The fastest shell plugin manager.
++ **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)** - Minimalistic, powerful and extremely customizable Zsh prompt.
