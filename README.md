@@ -1,5 +1,11 @@
 # Config and Resources
 
+My personal configurations and resources.
+
+## Table of contents
+
++ [Kirby 3 Plugins](https://github.com/quentin-f451/config-and-resources#kirby-3-plugins)
+
 ## Kirby 3 Plugins
 A list of useful Kirby 3 plugins 🔥
 
