@@ -8,6 +8,7 @@
   + [Kirby 3 Plugins](#kirby-3-plugins)
 + [Configurations](#configurations)
   + [Terminal](#terminal)
+  + [Node](#node)
 
 ## Resources
 
@@ -45,3 +46,9 @@ Configuration and plugins installed on my Terminal.
 #### Plugins
 + **[Antibody](https://github.com/getantibody/antibody)** - The fastest shell plugin manager.
 + **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)** - Minimalistic, powerful and extremely customizable Zsh prompt.
+
+### Node
+Configuration and plugins installed for Node.
+
+#### Plugins 
++ **[Homebrew](https://brew.sh/index_fr)** - Package manager.
