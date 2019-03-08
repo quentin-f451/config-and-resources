@@ -55,5 +55,4 @@ https://github.com/julien-gargot/kirby-devkit/tree/v3
 Configuration and plugins installed on my Terminal 
 
 #### Software
-+ **iTerm2**
-https://www.iterm2.com
+**[iTerm](https://www.iterm2.com)** - Terminal Emulator
