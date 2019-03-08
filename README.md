@@ -1,4 +1,6 @@
-# kirby-plugins
+# Config and Resources
+
+## Kirby 3 Plugins
 A list of useful Kirby 3 plugins 🔥
 
 + **Similar** Find similar collection items based on similarity.
