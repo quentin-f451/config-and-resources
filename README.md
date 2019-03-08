@@ -1,12 +1,17 @@
 # Config and Resources
 
-My personal configurations and resources.
+> My personal configurations and resources.
 
-## Table of contents
+##### Contents
 
-+ [Kirby 3 Plugins](https://github.com/quentin-f451/config-and-resources#kirby-3-plugins)
++ [Resources](#resources)
+  + [Kirby 3 Plugins](#kirby-3-plugins)
++ [Configurations](#configurations)
+  + [Terminal](#terminal)
 
-## Kirby 3 Plugins
+## Resources
+
+### Kirby 3 Plugins
 A list of useful Kirby 3 plugins 🔥
 
 + **Similar** Find similar collection items based on similarity.
@@ -44,9 +49,11 @@ https://github.com/julien-gargot/kirby-devkit/tree/v3
 
 ----
 
-## Terminal configuration
+## Configurations
+
+### Terminal
 Configuration and plugins installed on my Terminal 
 
-### Software
+#### Software
 + **iTerm2**
 https://www.iterm2.com
