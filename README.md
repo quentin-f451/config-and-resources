@@ -7,8 +7,8 @@
 + [Resources](#resources)
   + [Kirby 3 Plugins](#kirby-3-plugins)
 + [Configurations](#configurations)
-  + [Terminal](#terminal)
   + [Node](#node)
+  + [Terminal](#terminal)
 
 ## Resources
 
@@ -37,6 +37,15 @@ A list of useful Kirby 3 plugins 🔥
 
 ## Configurations
 
+### Node
+Configuration and plugins installed for Node.
+
+#### Plugins 
++ **[Homebrew](https://brew.sh/index_fr)** - Package manager.
+`/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
++ **[ZSH](https://www.zsh.org)**
+`brew install zsh`
+
 ### Terminal
 Configuration and plugins installed on my Terminal.
 
@@ -44,11 +53,9 @@ Configuration and plugins installed on my Terminal.
 + **[iTerm](https://www.iterm2.com)** - Terminal Emulator.
 
 #### Plugins
-+ **[Antibody](https://github.com/getantibody/antibody)** - The fastest shell plugin manager.
-+ **[Spaceship ZSH](https://github.com/denysdovhan/spaceship-prompt)** - Minimalistic, powerful and extremely customizable Zsh prompt.
-
-### Node
-Configuration and plugins installed for Node.
-
-#### Plugins 
-+ **[Homebrew](https://brew.sh/index_fr)** - Package manager.
++ **[Oh My ZSH](https://github.com/robbyrussell/oh-my-zsh)** - Framework for managing your zsh configuration.
+`sh -c "$(curl -fsSL https://raw.githubusercontent.com/robbyrussell/oh-my-zsh/master/tools/install.sh)"`
++ **[ZSH Syntax Highlighting](https://github.com/zsh-users/zsh-syntax-highlighting)** - Fish shell like syntax highlighting for Zsh.
+`git clone https://github.com/zsh-users/zsh-syntax-highlighting.git ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-syntax-highlighting` then add in `~/.zshrc`
++ **[ZSH Autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)** - Fish-like autosuggestions for zsh.
+`git clone https://github.com/zsh-users/zsh-autosuggestions ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/zsh-autosuggestions` then add in `~/.zshrc`
