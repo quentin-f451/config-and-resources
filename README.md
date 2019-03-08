@@ -44,3 +44,12 @@ https://github.com/TimOetting/kirby-builder
 
 + **Dev Kit** Starting point for using Kirby with Gulp and Bower.
 https://github.com/julien-gargot/kirby-devkit/tree/v3
+
+----
+
+## Terminal configuration
+Configuration and plugins installed on my Terminal 
+
+### Software
++ **iTerm2**
+https://www.iterm2.com
