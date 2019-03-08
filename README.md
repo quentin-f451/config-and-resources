@@ -43,6 +43,9 @@ Configuration and plugins installed on my Terminal.
 #### Softwares
 + **[iTerm](https://www.iterm2.com)** - Terminal Emulator.
 
+#### Themes
++ **[Material Design](https://github.com/MartinSeeler/iterm2-material-design)**
+
 #### Plugins
 + **[ZSH](https://www.zsh.org)**
 `brew install zsh`
