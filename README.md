@@ -32,7 +32,7 @@ A list of useful Kirby 3 plugins 🔥
 + **[Help section](https://github.com/mgfagency/kirby-helpsection)** Panel view to display help for users.
 + **[Builder](https://github.com/TimOetting/kirby-builder)** Predefine content blocks with different field sets.
 + **[Dev Kit](https://github.com/julien-gargot/kirby-devkit/tree/v3)** Starting point for using Kirby with Gulp and Bower.
-
++ **[Starterkit](https://github.com/quentin-f451/kirby-starterkit)** My personal starterkit for using Kirby with Webpack.
 
 ----
 
