@@ -68,3 +68,5 @@ Configuration and plugins installed for Node.
 #### Plugins 
 + **[Homebrew](https://brew.sh/index_fr)** - Package manager.
 `/usr/bin/ruby -e "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install)"`
++ **[NPM Check Updates](https://www.npmjs.com/package/npm-check-updates)** - Upgrades package.json dependencies to the latest versions.
+`npm install -g npm-check-updates`
