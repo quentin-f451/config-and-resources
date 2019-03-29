@@ -31,6 +31,7 @@ A list of useful Kirby 3 plugins 🔥
 + **[Matomo](https://github.com/sylvainjule/kirby-matomo)** Matomo integration for Kirby (replacing Analytics).
 + **[Help section](https://github.com/mgfagency/kirby-helpsection)** Panel view to display help for users.
 + **[Builder](https://github.com/TimOetting/kirby-builder)** Predefine content blocks with different field sets.
++ **[Chopper](https://github.com/HashandSalt/chopper)** Creates excerpts and keeps HTML tags.
 + **[Dev Kit](https://github.com/julien-gargot/kirby-devkit/tree/v3)** Starting point for using Kirby with Gulp and Bower.
 + **[Starterkit](https://github.com/quentin-f451/kirby-starterkit)** My personal starterkit for using Kirby with Webpack.
 
